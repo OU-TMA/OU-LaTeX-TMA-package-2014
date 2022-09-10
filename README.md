@@ -1,4 +1,7 @@
-OU-LaTeX-TMA-package
+see https://github.com/OU-TMA for link to the offical TMA.sty published by The Open University
+
+
+DEPRECATED OU-LaTeX-TMA-package
 ====================
 
 http://learn1.open.ac.uk/mod/forumng/discuss.php?d=5940#p59362
